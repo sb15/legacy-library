@@ -10,10 +10,10 @@
             "": "src/"
         },
         "files": [
-            "CorePhalcon.php",
-            "CoreErrors.php",
-            "CoreAutoloader.php",
-            "WebCore.php"
+            "src/CorePhalcon.php",
+            "src/CoreErrors.php",
+            "src/CoreAutoloader.php",
+            "src/WebCore.php"
         ]
     },
     "include-path": [
